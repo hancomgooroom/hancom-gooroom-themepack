@@ -99,7 +99,7 @@ entry selection, label selection, textview text selection:focus, textview text s
  ***************/
 .background {
   background-color: #FFFFFF;
-  color: rgba(0, 0, 0, 0.87);
+  color: #5C616C;
 }
 
 .background.csd {
