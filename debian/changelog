@@ -1,3 +1,13 @@
+hancom-gooroom-themepack (0.3.3+han3u1) unstable; urgency=medium
+
+  [ heejun.jang ]
+  * [11135405] [HGOOROOM-283]기본 텍스트 색깔 업데이트
+
+  [ boyeon.choi ]
+  * [4c0091ed] Add new backgrounds for Hancom Gooroom 3.3
+
+ -- Gooroom Autobuilder <jenkins@gooroom.kr>  Fri, 30 Jun 2023 19:24:28 +0900
+
 hancom-gooroom-themepack (0.3.1+han3u1) unstable; urgency=medium
 
   [ boyeon.choi ]
